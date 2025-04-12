@@ -61,3 +61,6 @@ This portfolio demonstrates my understanding of MySQL database creation using a 
 
 ## Relational Tables
 <img src="images/pic.png" alt="Alt Text" Width="900" heigth="300">
+
+## Sql copy of the database and table structures
+<img src="images/pic1.png" alt="Alt Text" Width="900" heigth="300">
