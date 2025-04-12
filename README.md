@@ -31,7 +31,7 @@ This portfolio demonstrates my understanding of MySQL database creation using a 
 
 ### 3. submission table
 - Composite Primary Key: (username, shortname, version)
-    - Relationships:
+- Relationships:
     - Many-to-One with student: Each submission belongs to one student.
     - Many-to-One with assignment: Each submission is for one assignment.
     - This models a Many-to-Many relationship between students and assignments, with version tracking multiple submissions.
