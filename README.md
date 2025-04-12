@@ -58,3 +58,6 @@ This portfolio demonstrates my understanding of MySQL database creation using a 
 
 ## ER Diagram
 <img src="images/erd.png" alt="Alt Text" Width="900" heigth="300">
+
+## Relational Tables
+<img src="images/pic.png" alt="Alt Text" Width="900" heigth="300">
