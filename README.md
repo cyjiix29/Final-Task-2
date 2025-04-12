@@ -54,4 +54,4 @@
 <img src="images/sub2.png" alt="Alt Text" Width="900" heigth="300">
 
 ## ER Diagram
-<img src="images/er.jpg" alt="Alt Text" Width="900" heigth="300">
+<img src="images/erd.jpg" alt="Alt Text" Width="900" heigth="300">
