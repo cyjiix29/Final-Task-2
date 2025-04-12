@@ -7,6 +7,7 @@
 -  Define shortname as a VARCHAR(50) and set it as the Primary Key
 -  Define due_date as a DATE NOT NULL
 -  Define url as a VARCHAR(255), which can be null
+
 ### 3. Create the submission table:
 -  Define username and shortname both as VARCHAR(50)
 -  Define version as an INT
