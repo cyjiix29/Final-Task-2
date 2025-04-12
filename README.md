@@ -45,7 +45,7 @@
 <img src="images/sub.png" alt="Alt Text" Width="900" heigth="300">
 
 #### Student Table
-<img src="images/student2.png" alt="Alt Text" Width="900" heigth="300">
+<img src="images/studen2.png" alt="Alt Text" Width="900" heigth="300">
 
 #### Assignment Table
 <img src="images/assign2.png" alt="Alt Text" Width="900" heigth="300">
@@ -54,4 +54,4 @@
 <img src="images/sub2.png" alt="Alt Text" Width="900" heigth="300">
 
 ## ER Diagram
-<img src="images/erd.jpg" alt="Alt Text" Width="900" heigth="300">
+<img src="images/erd.png" alt="Alt Text" Width="900" heigth="300">
