@@ -33,3 +33,25 @@
     - Many-to-One with assignment: Each submission is for one assignment.
     - This models a Many-to-Many relationship between students and assignments, with version tracking multiple submissions.
  
+
+## Screenshots
+#### Student Query Statement
+<img src="images/student.png" alt="Alt Text" Width="900" heigth="300">
+
+#### Assignment Query Statement
+<img src="images/assign.png" alt="Alt Text" Width="900" heigth="300">
+
+#### Submission Query Statement
+<img src="images/sub.png" alt="Alt Text" Width="900" heigth="300">
+
+#### Student Table
+<img src="images/student2.png" alt="Alt Text" Width="900" heigth="300">
+
+#### Assignment Table
+<img src="images/assign2.png" alt="Alt Text" Width="900" heigth="300">
+
+#### Submission Table
+<img src="images/sub2.png" alt="Alt Text" Width="900" heigth="300">
+
+## ER Diagram
+<img src="images/er.jpg" alt="Alt Text" Width="900" heigth="300">
